@@ -1,0 +1,42 @@
+# Virtual environments
+.venv/
+venv/
+
+# IDE configuration
+.idea/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Docker files
+*.dockerignore
+
+# Zip files
+*.zip
+
+# Pickle files (if they are large or contain sensitive data)
+*.pkl
+
+# Other system-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Configuration files
+*.cfg
+
+# Backup files
+*~ 
+*.swp
